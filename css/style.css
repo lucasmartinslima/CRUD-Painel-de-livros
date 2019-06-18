@@ -1,0 +1,99 @@
+body, html{
+	background-color: #232323;
+	font-family: 'Hind Siliguri', sans-serif;
+	margin: 0px;
+	padding: 0px;
+	color: white;
+}
+
+.reg-form{
+width: 100%;
+}
+
+.reg-form form{
+text-align: center;
+}
+.reg{
+	margin-bottom: 20px;
+width: 80%;
+height: 40px;
+}
+.reg-s{
+		margin-bottom: 50px;
+width: 80%;
+height: 45px;
+}
+
+.id-livro{
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.form-busca{
+	text-align: center;
+}
+#busca{
+	width: 30%;
+}
+table{
+	width: 100%;
+	background-color: #044d66;
+	padding-right: 180px; 
+	padding-left: 180px;
+}
+tr, td{
+	text-align: center;
+}
+tr:hover{
+	background-color: #04759b;
+}
+a{
+	text-decoration: none;
+}
+.editar a{
+	color: white;
+	padding: 1px 24px;
+	background: #06632a;
+}
+#excluir a{
+	color: white;
+	padding: 1px 24px;
+	background: #b70707;
+}
+
+
+
+ul{
+	margin-top: 0px;
+	text-align: center;
+	list-style: none;	
+	background-color: #044d66;
+}
+
+ul li {
+	display: inline-block;
+	padding: 10px 20px;
+}
+
+ul li:hover {
+	display: inline-block;
+	padding: 10px 20px;
+	background-color: #107293;
+}
+
+
+ul li a{
+	font-size: 20px;
+	color: white;
+}
